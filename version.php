@@ -17,17 +17,16 @@
 /**
  * Version details
  *
- * @package    filter
- * @subpackage mirocarousel
- * @copyright  2021 Samuel Calegari <samuel.calegari@univ-perp.fr>
+ * @package    filter_mirocarousel
+ * @copyright  2025 Samuel Calegari <samuel.calegari@univ-perp.fr>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version  = 2021022200;
-$plugin->requires = 2016051900;
+$plugin->version  = 2025061900;
+$plugin->requires = 2024100100;
 $plugin->component = 'filter_mirocarousel';
 $plugin->cron     = 0;
-$plugin->release = '1.2 (Build: 2021022200)';
-$plugin->maturity = MATURITY_ALPHA;
+$plugin->release = '1.2 (Build: 2025061900)';
+$plugin->maturity = MATURITY_STABLE;

@@ -2,7 +2,7 @@
 
 ## Current version ##
 
-alpha-1.1
+1.2
 
 ## Features ##
 
@@ -16,7 +16,7 @@ Copy files into the following directory **/filter/mirocarousel/** and visit **/a
 
 ## Requirement ##
 
-Moodle 3.1 or greater / Bootstrap 4
+Moodle 4.5 or greater / Bootstrap 5
 
 ## Usage ##
 
